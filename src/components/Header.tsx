@@ -42,7 +42,7 @@ const Header = () => {
                 placeholder="Search..."
                 className="w-64 pl-10 pr-4"
               />
-              <Search className="absolute left-3 top-1/2 transform -y-1/2 h-4 w-4 text-muted-foreground" />
+              <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
             </div>
             <Button className="bg-primary text-primary-foreground hover:bg-primary/90">
               Search
